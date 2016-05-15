@@ -6,4 +6,4 @@ Standard chess game for 2 players. Players can set up the player names and start
 $ javac *.java to compile all the source code
 $ jar -cvfm chess.jar manifest.txt *.class images/*.gif
 
-This will put all the files in an executable jar files
+This will put all the files in an executable jar file
